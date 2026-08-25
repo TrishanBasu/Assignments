@@ -4,3 +4,4 @@ Assignment 2 - July 21, 2026
 Assignment 3 - July 28, 2026
 Assignment 4 - August 4, 2026
 Assignment 5 - August 11, 2026
+Assignment 6 - August 18, 2026
